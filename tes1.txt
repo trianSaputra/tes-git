@@ -1,4 +1,4 @@
 resolusi kedepan
  - membuat portofolio
- - belajar bahasa inggris
  - belajar react.js
+ - belajar vue.js
