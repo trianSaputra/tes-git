@@ -1,10 +1,9 @@
 tes A
  - javascript
    ^ es6
-   ^ callback
+   ^ API
  - css
    ^ bootsrap
  - html
- - blah
  - node
  - c++
